@@ -2,6 +2,8 @@
 
 https://github.com/apple/swift/pull/165
 
+https://github.com/apple/swift/pull/17
+
 https://github.com/bower/bower/issues/1102
 
 https://github.com/chrisaljoudi/uBlock/pull/1517
