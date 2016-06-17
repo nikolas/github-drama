@@ -59,3 +59,5 @@ https://github.com/ValveSoftware/steam-for-linux/issues/3671
 https://github.com/nodejs/node/pull/4765
 
 https://github.com/twitter/scrooge/issues/222
+
+https://github.com/strongloop/loopback/issues/1079
