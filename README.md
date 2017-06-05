@@ -85,3 +85,5 @@ https://github.com/tc39/proposal-cancelable-promises/issues/70
 https://github.com/twitter/scrooge/issues/222
 
 https://github.com/zenparsing/es-observable/pull/97
+
+https://github.com/DoctorMcKay/node-steam-tradeoffer-manager/issues/226
