@@ -90,3 +90,4 @@ https://github.com/twitter/scrooge/issues/222
 
 https://github.com/zenparsing/es-observable/pull/97
 
+https://github.com/traverson/traverson/issues/95
