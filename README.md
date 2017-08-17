@@ -95,3 +95,5 @@ https://github.com/twitter/scrooge/issues/222
 https://github.com/zenparsing/es-observable/pull/97
 
 https://github.com/atom-minimap/minimap/issues/588
+
+[https://github.com/microsoft/vscode/issues/32405](http://webcache.googleusercontent.com/search?q=cache:https://github.com/microsoft/vscode/issues/32405)
