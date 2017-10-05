@@ -99,3 +99,5 @@ https://github.com/twitter/scrooge/issues/222
 https://github.com/vcflib/vcflib/issues/206
 
 https://github.com/zenparsing/es-observable/pull/97
+
+https://github.com/hapijs/boom/pull/78
