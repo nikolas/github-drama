@@ -25,7 +25,7 @@ be getting worked up about something, it can be considered for inclusion here.
 If a repository's maintainer has locked conversation on a thread, that's also
 a good indicator that it could be included here.
 
-## Teh Drama
+--
 
 [https://github.com/Microsoft/vscode/issues/32405](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405)
 
@@ -45,11 +45,15 @@ https://github.com/django/django/pull/2692
 
 https://github.com/docker/docker/pull/31075
 
+https://github.com/docker/for-mac/issues/1120
+
 https://github.com/doktornotor/pfsense-closedsource
 
 https://github.com/dotnet/cli/issues/3093
 
 https://github.com/facebook/react/issues/10191
+
+https://github.com/facebookincubator/create-react-app/issues/3780
 
 https://github.com/golang/go/issues/21956
 
@@ -89,7 +93,15 @@ https://github.com/nodejs/node/issues/3721
 
 https://github.com/nodejs/TSC/issues/8
 
+https://github.com/npm/npm/issues/19883
+
 https://github.com/opal/opal/issues/941
+
+[https://github.com/opencart/opencart/issues/3834](https://web.archive.org/web/20160120051637/https://github.com/opencart/opencart/issues/3834)
+
+[https://github.com/opencart/opencart/issues/1534](https://web.archive.org/web/20160120151012/https://github.com/opencart/opencart/issues/1534)
+
+[https://github.com/opencart/opencart/issues/1269](https://web.archive.org/web/20160120150725/https://github.com/opencart/opencart/issues/1269)
 
 https://github.com/P-H-C/phc-winner-argon2/issues/182
 
