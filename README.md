@@ -157,6 +157,8 @@ a good indicator that it could be included here.
 
 [PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
 
+[signalapp/Signal-Android/issues/7598](https://github.com/signalapp/Signal-Android/issues/7598)
+
 [stevemao/left-pad/issues/4](https://github.com/stevemao/left-pad/issues/4)
 
 [strongloop/loopback/issues/1079](https://github.com/strongloop/loopback/issues/1079)
