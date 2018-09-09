@@ -179,6 +179,8 @@ a good indicator that it could be included here.
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
+[roslyn/pull/3507](https://github.com/dotnet/roslyn/pull/3507)
+
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
 
