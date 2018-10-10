@@ -106,6 +106,8 @@ lerna/lerna
 
 [Microsoft/vscode/issues/32405](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405)
 
+[Microsoft/vscode/issues/32648](https://github.com/Microsoft/vscode/issues/32648)
+
 [mishoo/UglifyJS2/issues/2054](https://github.com/mishoo/UglifyJS2/issues/2054)
 
 [moment/moment/issues/1407](https://github.com/moment/moment/issues/1407)
