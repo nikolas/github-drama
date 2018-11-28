@@ -204,6 +204,8 @@ palantir/tslint
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
+[event-stream/issues/116](https://github.com/dominictarr/event-stream/issues/116)
+
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
 
