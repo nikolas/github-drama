@@ -44,6 +44,8 @@ a good indicator that it could be included here.
 
 [chrisaljoudi/uBlock/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
 
+[composer/composer/commit/ac676f47f7bbc619678a29deae097b6b0710b799](https://github.com/composer/composer/commit/ac676f47f7bbc619678a29deae097b6b0710b799#commitcomment-8796588)
+
 [CVarisco/community-story/pull/1](https://github.com/CVarisco/community-story/pull/1)
 
 [dear-github/dear-github/issues/107](https://github.com/dear-github/dear-github/issues/107)
