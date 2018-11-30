@@ -30,6 +30,8 @@ a good indicator that it could be included here.
 
 [ambv/black/issues/118](https://github.com/ambv/black/issues/118)
 
+[apple/swift/pull/17](https://github.com/apple/swift/pull/17)
+
 [ariya/phantomjs/issues/15345](https://github.com/ariya/phantomjs/issues/15345)
 
 [aspnet/Home/issues/2022](https://github.com/aspnet/Home/issues/2022)
