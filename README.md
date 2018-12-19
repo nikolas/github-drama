@@ -215,6 +215,7 @@ palantir/tslint
 [WICG/interventions/issues/18](https://github.com/WICG/interventions/issues/18)
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
+[Marak/faker.js/issues/735](https://github.com/Marak/faker.js/issues/735)
 
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
