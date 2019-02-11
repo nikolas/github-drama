@@ -174,6 +174,8 @@ palantir/tslint
 
 [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
 
+[spring-projects/spring-hateoas/issues/66](https://github.com/spring-projects/spring-hateoas/issues/66)
+
 [syl20bnr/spacemacs/pull/3484](https://github.com/syl20bnr/spacemacs/pull/3484)
 
 [systemd/systemd/issues/1143](https://github.com/systemd/systemd/issues/1143)
