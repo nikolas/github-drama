@@ -26,7 +26,7 @@ be getting worked up about something, it can be considered for inclusion here.
 If a repository's maintainer has locked conversation on a thread, that's also
 a good indicator that it could be included here.
 
---
+---
 
 [ambv/black/issues/118](https://github.com/ambv/black/issues/118)
 
@@ -40,9 +40,9 @@ a good indicator that it could be included here.
 
 [atom-minimap/minimap/issues/588](https://github.com/atom-minimap/minimap/issues/588)
 
-[bower/bower/issues/1102](https://github.com/bower/bower/issues/1102)
-
-[bower/bower/pull/1748](https://github.com/bower/bower/pull/1748)
+bower/bower
+* [/issues/1102](https://github.com/bower/bower/issues/1102)
+* [/pull/1748](https://github.com/bower/bower/pull/1748)
 
 [chrisaljoudi/uBlock/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
 
@@ -74,15 +74,15 @@ a good indicator that it could be included here.
 
 [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
 
-[google/googletest/issues/1660](https://github.com/google/googletest/issues/1660) Horrible Documentation
-
-[google/googletest/issues/1666](https://github.com/google/googletest/issues/1666) Absolutely a Waste of Time
+google/googletest
+* [/issues/1660](https://github.com/google/googletest/issues/1660)
+* [/issues/1666](https://github.com/google/googletest/issues/1666)
 
 [GoogleCloudPlatform/click-to-deploy/pull/209](https://github.com/GoogleCloudPlatform/click-to-deploy/pull/209)
 
 [grimfang4/sdl-gpu/issues/2](https://github.com/grimfang4/sdl-gpu/issues/2)
 
-[Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archived: [https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB](https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB))
+[Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (mirrors: [1](https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB))
 
 [Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151)
 
@@ -121,8 +121,10 @@ lerna/lerna
 
 [Microsoft/web-build-tools/issues/673](https://github.com/Microsoft/web-build-tools/issues/673)
 
-[Microsoft/vscode/issues/32405](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405)
-[Microsoft/vscode/issues/54261](https://github.com/Microsoft/vscode/issues/54261)
+Microsoft/vscode
+* [/issues/32405](https://github.com/Microsoft/vscode/issues/32405) (mirrors: [1](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405))
+* [/issues/54261](https://github.com/Microsoft/vscode/issues/54261)
+
 [mishoo/UglifyJS2/issues/2054](https://github.com/mishoo/UglifyJS2/issues/2054)
 
 [moment/moment/issues/1407](https://github.com/moment/moment/issues/1407)
@@ -141,9 +143,9 @@ lerna/lerna
 
 [nodejs/inclusivity/issues/9](https://github.com/nodejs/inclusivity/issues/9)
 
-[nodejs/node/issues/3721](https://github.com/nodejs/node/issues/3721)
-
-[nodejs/node/pull/4765](https://github.com/nodejs/node/pull/4765)
+nodejs/node
+* [/issues/3721](https://github.com/nodejs/node/issues/3721)
+* [/pull/4765](https://github.com/nodejs/node/pull/4765)
 
 [nodejs/TSC/issues/8](https://github.com/nodejs/TSC/issues/8)
 
@@ -153,15 +155,12 @@ lerna/lerna
 
 [opal/opal/issues/941](https://github.com/opal/opal/issues/941)
 
-[opencart/opencart/issues/1269](https://web.archive.org/web/20160120150725/https://github.com/opencart/opencart/issues/1269)
-
-[opencart/opencart/issues/3834](https://web.archive.org/web/20160120051637/https://github.com/opencart/opencart/issues/3834)
-
-[opencart/opencart/issues/1534](https://web.archive.org/web/20160120151012/https://github.com/opencart/opencart/issues/1534)
-
-[opencart/opencart/pull/219](https://github.com/opencart/opencart/pull/219)
-
-[opencart/opencart/pull/1594](https://github.com/opencart/opencart/pull/1594)
+opencart/opencart
+* [/pull/219](https://github.com/opencart/opencart/pull/219)
+* [/issues/1269](https://github.com/opencart/opencart/issues/1269) (mirrors: [1](https://web.archive.org/web/20160120150725/https://github.com/opencart/opencart/issues/1269))
+* [/issues/1534](https://github.com/opencart/opencart/issues/1534) (mirrors: [1](https://web.archive.org/web/20160120151012/https://github.com/opencart/opencart/issues/1534))
+* [/pull/1594](https://github.com/opencart/opencart/pull/1594)
+* [/issues/3834](https://github.com/opencart/opencart/issues/3834) (mirrors: [1](https://web.archive.org/web/20160120051637/https://github.com/opencart/opencart/issues/3834))
 
 palantir/tslint
 * [/issues/4132](https://github.com/palantir/tslint/issues/4132)
@@ -180,11 +179,10 @@ palantir/tslint
 
 [pypa/pipenv/issues/1050](https://github.com/pypa/pipenv/issues/1050)
 
-[rails/rails/issues/9894](https://github.com/rails/rails/issues/9894)
-
-[rails/rails/pull/5329](https://github.com/rails/rails/pull/5329)
-
-[rails/rails/pull/31434](https://github.com/rails/rails/pull/31434)
+rails/rails
+* [/pull/5329](https://github.com/rails/rails/pull/5329)
+* [/issues/9894](https://github.com/rails/rails/issues/9894)
+* [/pull/31434](https://github.com/rails/rails/pull/31434)
 
 [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
 
@@ -194,13 +192,11 @@ palantir/tslint
 
 [syl20bnr/spacemacs/pull/3484](https://github.com/syl20bnr/spacemacs/pull/3484)
 
-[systemd/systemd/issues/1143](https://github.com/systemd/systemd/issues/1143)
-
-[systemd/systemd/issues/2402](https://github.com/systemd/systemd/issues/2402)
-
-[systemd/systemd/issues/5644](https://github.com/systemd/systemd/issues/5644)
-
-[systemd/systemd/issues/6237](https://github.com/systemd/systemd/issues/6237)
+systemd/systemd
+* [/issues/1143](https://github.com/systemd/systemd/issues/1143)
+* [/issues/2402](https://github.com/systemd/systemd/issues/2402)
+* [/issues/5644](https://github.com/systemd/systemd/issues/5644)
+* [/issues/6237](https://github.com/systemd/systemd/issues/6237)
 
 [tc39/proposal-cancelable-promises/issues/70](https://github.com/tc39/proposal-cancelable-promises/issues/70)
 
@@ -230,5 +226,6 @@ palantir/tslint
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
+---
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
