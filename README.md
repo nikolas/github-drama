@@ -151,7 +151,7 @@ lerna/lerna
 
 [nodejs/readable-stream/pull/238](https://github.com/nodejs/readable-stream/pull/238)
 
-[notepad-plus-plus/issues](https://github.com/notepad-plus-plus/notepad-plus-plus/issues) — Notepad++ Chinese shitstorm
+[notepad-plus-plus/issues](https://github.com/notepad-plus-plus/notepad-plus-plus/issues?q=is%3Aissue+created%3A2019-10-30+sort%3Acomments-desc) — Notepad++ Chinese shitstorm
 
 [npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
 
