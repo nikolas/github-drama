@@ -247,5 +247,6 @@ palantir/tslint
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
+[nikolas/github-drama/issues/105](https://github.com/nikolas/github-drama/issues/105)
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
