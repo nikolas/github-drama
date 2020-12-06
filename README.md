@@ -251,3 +251,5 @@ palantir/tslint
 
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
+
+[microsoft/vscode/issues/87440](https://github.com/microsoft/vscode/issues/87440) VSCode Santa Hat
