@@ -108,6 +108,8 @@ a good indicator that it could be included here.
 
 [kenwheeler/slick/issues/681](https://github.com/kenwheeler/slick/issues/681)
 
+[kelseyhightower/nocode/issues/50](https://github.com/kelseyhightower/nocode/issues/50)
+
 [kmmbvnr/django-jenkins/issues/349](https://github.com/kmmbvnr/django-jenkins/issues/349)
 
 [kraih/mojo/issues/656](https://github.com/kraih/mojo/issues/656)
