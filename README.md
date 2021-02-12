@@ -12,9 +12,11 @@ participants to take a step back from the drama and say to themselves, "damn,
 I need to chill".
 
 ### How do I find drama?
+
 Go into a GitHub project's issues, and sort by "Most commented" or "Most reactions".
 
 ### What qualifies as drama?
+
 There's no agreement on what's considered dramatic enough to be included
 in github-drama. Everyone has a different sense of humor. There are plenty
 of "non-serious" github threads, where the usual github politeness gives
@@ -113,15 +115,16 @@ a good indicator that it could be included here.
 [kraih/mojo/issues/656](https://github.com/kraih/mojo/issues/656)
 
 lerna/lerna
-* [/pull/1616](https://github.com/lerna/lerna/pull/1616)
-* [/pull/1619](https://github.com/lerna/lerna/pull/1619)
-* [/issues/1622](https://github.com/lerna/lerna/issues/1622)
-* [/issues/1625](https://github.com/lerna/lerna/issues/1625)
-* [/issues/1628](https://github.com/lerna/lerna/issues/1628)
-* [/issues/1630](https://github.com/lerna/lerna/issues/1630)
-* [/pull/1631](https://github.com/lerna/lerna/pull/1631)
-* [/issues/1632](https://github.com/lerna/lerna/issues/1632)
-* [/pull/1633](https://github.com/lerna/lerna/pull/1633)
+
+- [/pull/1616](https://github.com/lerna/lerna/pull/1616)
+- [/pull/1619](https://github.com/lerna/lerna/pull/1619)
+- [/issues/1622](https://github.com/lerna/lerna/issues/1622)
+- [/issues/1625](https://github.com/lerna/lerna/issues/1625)
+- [/issues/1628](https://github.com/lerna/lerna/issues/1628)
+- [/issues/1630](https://github.com/lerna/lerna/issues/1630)
+- [/pull/1631](https://github.com/lerna/lerna/pull/1631)
+- [/issues/1632](https://github.com/lerna/lerna/issues/1632)
+- [/pull/1633](https://github.com/lerna/lerna/pull/1633)
 
 [Microsoft/TypeScript/pull/3622](https://github.com/Microsoft/TypeScript/pull/3622)
 
@@ -172,9 +175,10 @@ lerna/lerna
 [OpenTTD/OpenTTD/issues/7731](https://github.com/OpenTTD/OpenTTD/issues/7731)
 
 palantir/tslint
-* [/issues/4132](https://github.com/palantir/tslint/issues/4132)
-* [/issues/4140](https://github.com/palantir/tslint/issues/4140)
-* [/issues/4141](https://github.com/palantir/tslint/issues/4141)
+
+- [/issues/4132](https://github.com/palantir/tslint/issues/4132)
+- [/issues/4140](https://github.com/palantir/tslint/issues/4140)
+- [/issues/4141](https://github.com/palantir/tslint/issues/4141)
 
 [P-H-C/phc-winner-argon2/issues/182](https://github.com/P-H-C/phc-winner-argon2/issues/182)
 
@@ -191,7 +195,8 @@ palantir/tslint
 [pypa/pipenv/issues/1050](https://github.com/pypa/pipenv/issues/1050)
 
 [rails/rails/issues/5228](https://github.com/rails/rails/issues/5228)
-* [rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57](https://github.com/rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57)
+
+- [rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57](https://github.com/rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57)
 
 [rails/rails/issues/9894](https://github.com/rails/rails/issues/9894)
 
@@ -251,5 +256,6 @@ palantir/tslint
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
-
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
+
+[restic/issues/1786](https://github.com/restic/restic/issues/1786)
