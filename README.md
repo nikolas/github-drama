@@ -78,6 +78,8 @@ a good indicator that it could be included here.
 
 [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
 
+[golang/go/issues/33021](https://github.com/golang/go/issues/33021)
+
 [google/googletest/issues/1660](https://github.com/google/googletest/issues/1660) Horrible Documentation
 
 [google/googletest/issues/1666](https://github.com/google/googletest/issues/1666) Absolutely a Waste of Time
