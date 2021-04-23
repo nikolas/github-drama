@@ -28,6 +28,8 @@ a good indicator that it could be included here.
 
 --
 
+[robertdavidgraham/masscan/issues/482](https://github.com/robertdavidgraham/masscan/issues/482)
+
 [albertodemichelis/squirrel/pull/67](https://github.com/albertodemichelis/squirrel/pull/67)
 
 [ambv/black/issues/118](https://github.com/ambv/black/issues/118)
