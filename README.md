@@ -32,6 +32,8 @@ a good indicator that it could be included here.
 
 [ambv/black/issues/118](https://github.com/ambv/black/issues/118)
 
+[audacity/audacity/pull/835](https://github.com/audacity/audacity/pull/835)
+
 [ant-design/ant-design/issues/13098](https://github.com/ant-design/ant-design/issues/13098)
 
 [ariya/phantomjs/issues/15345](https://github.com/ariya/phantomjs/issues/15345)
