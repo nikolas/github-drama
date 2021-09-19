@@ -265,5 +265,6 @@ palantir/tslint
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
+[microsoft/vscode/issues/87419](https://github.com/microsoft/vscode/issues/87419)
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
