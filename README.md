@@ -196,8 +196,6 @@ palantir/tslint
 
 [promises-aplus/promises-spec/issues/94](https://github.com/promises-aplus/promises-spec/issues/94)
 
-[ptsteadman/notebook/pull/1](https://github.com/ptsteadman/notebook/pull/1)
-
 [pyca/cryptography/issues/5771](https://github.com/pyca/cryptography/issues/5771)
 
 [pypa/pipenv/issues/1050](https://github.com/pypa/pipenv/issues/1050)
