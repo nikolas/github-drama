@@ -131,6 +131,8 @@ lerna/lerna
 
 [spatie/laravel-newsletter/pull/228](https://github.com/spatie/laravel-newsletter/pull/228)
 
+[Microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb](https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb)
+
 [Microsoft/TypeScript/pull/3622](https://github.com/Microsoft/TypeScript/pull/3622)
 
 [Microsoft/web-build-tools/issues/673](https://github.com/Microsoft/web-build-tools/issues/673)
