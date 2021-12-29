@@ -243,6 +243,8 @@ palantir/tslint
 
 [telegramdesktop/tdesktop/issues/96](https://github.com/telegramdesktop/tdesktop/issues/96)
 
+[tensorflow/tensorflow/issues/53549](https://github.com/tensorflow/tensorflow/issues/53549)
+
 [tip4commit/tip4commit/issues/127](https://github.com/tip4commit/tip4commit/issues/127)
 
 [todogroup/opencodeofconduct/pull/70](https://github.com/todogroup/opencodeofconduct/pull/70)
