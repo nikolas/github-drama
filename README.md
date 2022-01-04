@@ -267,5 +267,6 @@ palantir/tslint
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
+[pytorch/pytorch/issues/47354](https://github.com/pytorch/pytorch/issues/47354)
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
