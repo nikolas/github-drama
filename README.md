@@ -267,5 +267,6 @@ palantir/tslint
 
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
 
+[Marak/faker.js/pull/2](https://github.com/Marak/faker.js/pull/2)
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
