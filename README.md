@@ -269,4 +269,6 @@ palantir/tslint
 
 [pytorch/pytorch/issues/47354](https://github.com/pytorch/pytorch/issues/47354)
 
+[Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
+
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
