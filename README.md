@@ -269,4 +269,6 @@ palantir/tslint
 
 [Marak/faker.js/pull/2](https://github.com/Marak/faker.js/pull/2)
 
+[Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
+
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
