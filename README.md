@@ -72,6 +72,8 @@ a good indicator that it could be included here.
 
 [dotnet/roslyn/pull/3507](https://github.com/dotnet/roslyn/pull/3507)
 
+[dotnet/sdk/pull/22262](https://github.com/dotnet/sdk/pull/22262)
+
 [facebook/react/issues/10191](https://github.com/facebook/react/issues/10191)
 
 [flathub/flathub/pull/1978](https://github.com/flathub/flathub/pull/1978)
