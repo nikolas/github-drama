@@ -269,6 +269,12 @@ palantir/tslint
 
 [microsoft/vscode/issues/87419](https://github.com/microsoft/vscode/issues/87419)
 
+[microsoft/vscode/issues/87268](https://github.com/microsoft/vscode/issues/87268)
+
+[microsoft/vscode/issues/87428](https://github.com/microsoft/vscode/issues/87428)
+
+[microsoft/vscode/issues/87537](https://github.com/microsoft/vscode/issues/87537)
+
 [Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
