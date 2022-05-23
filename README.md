@@ -271,5 +271,6 @@ palantir/tslint
 
 [Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
 
+[obsproject/obs-studio/pull/2868](https://github.com/obsproject/obs-studio/pull/2868#issuecomment-1134053984)
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
