@@ -167,6 +167,11 @@ lerna/lerna
 
 [npm/npm/issues/19883](https://github.com/npm/npm/issues/19883)
 
+oerdnj/deb.sury.org
+* [oerdnj/deb.sury.org/issues/1768](https://github.com/oerdnj/deb.sury.org/issues/1768#issuecomment-1258453586)
+* [archive.ph](https://archive.ph/krkTc)
+* [archive.org](http://web.archive.org/web/20220926233722/https://github.com/oerdnj/deb.sury.org/issues/1768)
+
 [opal/opal/issues/941](https://github.com/opal/opal/issues/941)
 
 [opencart/opencart/issues/1269](https://web.archive.org/web/20160120150725/https://github.com/opencart/opencart/issues/1269)
