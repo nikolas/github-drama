@@ -44,6 +44,8 @@ a good indicator that it could be included here.
 
 [atom-minimap/minimap/issues/588](https://github.com/atom-minimap/minimap/issues/588)
 
+[ayojs/ayo/issues/36](https://github.com/ayojs/ayo/issues/36) ([archive.ph](https://archive.ph/FvsR6)) ([archive.org](https://web.archive.org/web/20230120102451/https://github.com/ayojs/ayo/issues/36))
+
 [bower/bower/issues/1102](https://github.com/bower/bower/issues/1102)
 
 [bower/bower/pull/1748](https://github.com/bower/bower/pull/1748)
