@@ -80,6 +80,11 @@ a good indicator that it could be included here.
 
 [flutter/flutter/issues/11609](https://github.com/flutter/flutter/issues/11609)
 
+github/dmca
+* [pull/8122](https://github.com/github/dmca/pull/8122) ([archive.org](https://web.archive.org/web/20230129084646/https://github.com/github/dmca/pull/8122
+), [archive.ph](https://archive.ph/l1oh6))
+* [pull/8140](https://github.com/github/dmca/pull/8140) ([archive.org](https://web.archive.org/web/20230129084629/https://github.com/github/dmca/pull/8140), [archive.ph](https://archive.ph/GrpDZ))
+
 [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
 
 [golang/go/issues/33021](https://github.com/golang/go/issues/33021)
