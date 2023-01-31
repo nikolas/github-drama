@@ -76,6 +76,8 @@ a good indicator that it could be included here.
 
 [facebook/react/issues/10191](https://github.com/facebook/react/issues/10191)
 
+[fish-shell/fish-shell/pull/9512](https://github.com/fish-shell/fish-shell/pull/9512) ([archive.org](https://web.archive.org/web/20230131070907/https://github.com/fish-shell/fish-shell/pull/9512), [archive.ph](https://archive.ph/j5Y3q))
+
 [flathub/flathub/pull/1978](https://github.com/flathub/flathub/pull/1978)
 
 [flutter/flutter/issues/11609](https://github.com/flutter/flutter/issues/11609)
