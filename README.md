@@ -285,5 +285,61 @@ palantir/tslint
 
 [Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
 
+[zloirock/core-js](https://github.com/zloirock/core-js),
+[archive.ph](https://archive.ph/sH1uG),
+[archive.org](https://web.archive.org/web/20230221163813/https://github.com/zloirock/core-js),
+[ghostarchive.org](https://ghostarchive.org/archive/xDt8V)
+* New core-js drama: Denis Pushkarev (Zloirock, console spammer, Russian pedestrian homicider)
+* Read Pushkarev's
+  [10000-word screed](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md),
+  [archive.ph](https://archive.ph/miwZk),
+  [archive.org](https://web.archive.org/web/20230221182146/https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md),
+  [ghostarchive.org](https://ghostarchive.org/archive/WZ2rW)
+* GitHub issues
+  * [issues/548](https://github.com/zloirock/core-js/issues/548),
+    [archive.ph](https://archive.ph/Tz1Ey),
+    [archive.org](https://web.archive.org/web/20230221163439/https://github.com/zloirock/core-js/issues/548),
+    [ghostarchive.org](https://ghostarchive.org/archive/LRf1H)
+  * [issues/635](https://github.com/zloirock/core-js/issues/635),
+    [archive.ph](https://archive.ph/P308P),
+    [archive.org](https://web.archive.org/web/20230221170306/https://github.com/zloirock/core-js/issues/635),
+    [ghostarchive.org](https://ghostarchive.org/archive/pOYmt)
+  * [issues/708](https://github.com/zloirock/core-js/issues/708),
+    [archive.ph](https://archive.ph/xxECm),
+    [archive.org](https://web.archive.org/web/20230221163326/https://github.com/zloirock/core-js/issues/708),
+    [ghostarchive.org](https://ghostarchive.org/archive/TMfTm)
+  * [issues/767](https://github.com/zloirock/core-js/issues/767),
+    [archive.ph](https://archive.ph/5dx2U),
+    [archive.org](https://web.archive.org/web/20230221163506/https://github.com/zloirock/core-js/issues/767),
+    [ghostarchive.org](https://ghostarchive.org/archive/9f9Gg)
+  * [issues/1179](https://github.com/zloirock/core-js/issues/1179),
+    [archive.ph](https://archive.ph/k3x02),
+    [archive.org](https://web.archive.org/web/20230221162909/https://github.com/zloirock/core-js/issues/1179),
+    [ghostarchive.org](https://ghostarchive.org/archive/RkxU2)
+* Journalism
+  * [theregister.com/2020](https://www.theregister.com/2020/03/26/corejs_maintainer_jailed_code_release),
+    [archive.org](https://web.archive.org/web/20230221144859/https://www.theregister.com/2020/03/26/corejs_maintainer_jailed_code_release),
+    [archive.ph](https://archive.ph/x86K4),
+    [ghostarchive.org](https://ghostarchive.org/archive/YB6R3)
+  * [theregister.com/2023](https://www.theregister.com/2023/02/15/corejs_russia_open_source),
+    [archive.ph](https://archive.ph/mm6y5),
+    [archive.org](https://web.archive.org/web/20230221163225/https://www.theregister.com/2023/02/15/corejs_russia_open_source),
+    [ghostarchive.org](https://ghostarchive.org/archive/3ySK9)
+  * [thestack.technology](https://thestack.technology/core-js-maintainer-denis-pusharev-license-broke-angry/),
+    [archive.ph](https://archive.ph/7iR4i),
+    [archive.org](https://web.archive.org/web/20230221163750/https://thestack.technology/core-js-maintainer-denis-pusharev-license-broke-angry/),
+    [ghostarchive.org](https://ghostarchive.org/archive/VVpUL),
+  * [desuarchive.org](https://desuarchive.org/g/thread/91675671/),
+    [archive.ph](https://archive.ph/odBJZ),
+    [archive.org](https://web.archive.org/web/20230221165715/https://desuarchive.org/g/thread/91675671),
+    [ghostarchive.org](https://ghostarchive.org/archive/P9hue)
+  * [4channel.org](https://boards.4channel.org/g/thread/91675671),
+    [archive.ph](https://archive.ph/LLB7X),
+    [archive.org](https://web.archive.org/web/20230221165452/https://boards.4channel.org/g/thread/91675671),
+    [ghostarchive.org](https://ghostarchive.org/archive/LXlVG)
+  * [kiwifarms.net](https://kiwifarms.net/threads/open-source-software-community.38130/post-5930885),
+    [archive.ph](https://archive.ph/guOqI#selection-4265.0-4265.12),
+    [archive.org](https://web.archive.org/web/20230221164800/https://kiwifarms.net/threads/open-source-software-community.38130/post-5930885),
+    [ghostarchive.org](https://ghostarchive.org/archive/bBaY2)
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
