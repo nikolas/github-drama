@@ -80,6 +80,10 @@ a good indicator that it could be included here.
 
 [facebook/react/issues/10191](https://github.com/facebook/react/issues/10191)
 
+[fish-shell/fish-shell/pull/9512](https://github.com/fish-shell/fish-shell/pull/9512) Rust Evangelism and Fish Carcinisation - The Inevitable Evolution
+* Archives: [archive.org](https://web.archive.org/web/20230131091922/https://github.com/fish-shell/fish-shell/pull/9512), [archive.ph](https://archive.ph/j5Y3q)
+* Journalism: [Hacker News](https://news.ycombinator.com/item?id=34588340), [Lobste.rs](https://lobste.rs/s/fdcpy3), [4chan](https://boards.4channel.org/g/thread/91238463), [Desuarchive](https://desuarchive.org/g/thread/91238463)
+
 [flathub/flathub/pull/1978](https://github.com/flathub/flathub/pull/1978)
 
 [flutter/flutter/issues/11609](https://github.com/flutter/flutter/issues/11609)
