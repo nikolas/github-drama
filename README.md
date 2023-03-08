@@ -300,5 +300,6 @@ palantir/tslint
 
 [Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
 
+[nvbn/thefuck/pull/1167](https://github.com/nvbn/thefuck/pull/1167)
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
