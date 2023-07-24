@@ -302,3 +302,5 @@ palantir/tslint
 
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
+
+[mdn/yari/issues/9208](https://github.com/mdn/yari/issues/9208) MDN AI Explain drama
