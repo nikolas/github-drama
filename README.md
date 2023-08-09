@@ -151,6 +151,10 @@ lerna/lerna
 
 [moment/moment/issues/1407](https://github.com/moment/moment/issues/1407)
 
+moq/moq
+* [/issues/1372](https://github.com/moq/moq/issues/1372)
+* [/issues/1372](https://github.com/moq/moq/issues/1374)
+
 [moxystudio/node-cross-spawn/pull/102](https://github.com/moxystudio/node-cross-spawn/pull/102)
 
 [mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0#commitcomment-14824459](https://github.com/mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0#commitcomment-14824459)
