@@ -153,7 +153,7 @@ lerna/lerna
 
 moq/moq
 * [/issues/1372](https://github.com/moq/moq/issues/1372)
-* [/issues/1372](https://github.com/moq/moq/issues/1374)
+* [/issues/1374](https://github.com/moq/moq/issues/1374)
 
 [moxystudio/node-cross-spawn/pull/102](https://github.com/moxystudio/node-cross-spawn/pull/102)
 
