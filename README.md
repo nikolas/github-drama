@@ -300,5 +300,6 @@ palantir/tslint
 
 [Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
 
+[badges/shields/pull/9474](https://github.com/badges/shields/issues/9474)
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
