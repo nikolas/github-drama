@@ -303,3 +303,5 @@ palantir/tslint
 [badges/shields/pull/9474](https://github.com/badges/shields/issues/9474)
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
+
+[mdn/yari/issues/9208](https://github.com/mdn/yari/issues/9208) MDN AI Explain drama
