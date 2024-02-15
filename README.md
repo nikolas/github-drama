@@ -198,7 +198,7 @@ palantir/tslint
 
 [P-H-C/phc-winner-argon2/issues/182](https://github.com/P-H-C/phc-winner-argon2/issues/182)
 
-[PiotrGrochowski/Consolas/issues/1](https://github.com/PiotrGrochowski/Consolas/issues/1)
+[PiotrGrochowski/Consolas/issues/1](https://web.archive.org/web/20190203070006/https://github.com/PiotrGrochowski/Consolas/issues/1)
 
 
 [PolyMC/PolyMC/commit/ccf2825](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee)
