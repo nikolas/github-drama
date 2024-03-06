@@ -303,3 +303,5 @@ palantir/tslint
 [badges/shields/pull/9474](https://github.com/badges/shields/issues/9474)
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
+
+[LemmyNet/lemmy-ui/issues/2384](https://github.com/LemmyNet/lemmy-ui/issues/2384)
